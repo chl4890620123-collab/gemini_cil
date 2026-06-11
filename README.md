@@ -1,3 +1,5 @@
+재미나이를 이용한 프로젝트로써 할일 리스트등을 만들수있다는점을 통해 cli 부분들을 관심있게봄
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
